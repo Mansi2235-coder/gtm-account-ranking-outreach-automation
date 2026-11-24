@@ -1,0 +1,8 @@
+company,country,industry,employees,revenue_eur_m,contact_name,contact_role,pain_point
+Alpha Metalworks (sample),Germany,Automotive,5200,900,Anna Weber,Head of Sustainability,carbon reporting for suppliers
+Beta Components (sample),Germany,Automotive,1800,310,Jonas Keller,Procurement Manager,supplier emissions data
+Gamma Aero (sample),France,Aerospace,9000,2100,Claire Martin,Sustainability Lead,Scope 3 reporting
+Delta Plastics (sample),Italy,Chemicals,450,80,Marco Rossi,Operations Manager,product carbon footprint
+Epsilon Drives (sample),Austria,Machinery,2600,540,Lena Huber,Head of Purchasing,CBAM compliance
+Zeta Foods (sample),Germany,Food,3000,700,Tim Brandt,CFO,none listed
+Eta Forge (sample),Poland,Automotive,3900,620,Piotr Nowak,Sustainability Manager,CSRD reporting
